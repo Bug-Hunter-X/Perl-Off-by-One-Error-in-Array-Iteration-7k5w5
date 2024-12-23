@@ -1,0 +1,1 @@
+This repository contains a simple Perl program demonstrating a common off-by-one error when iterating over an array.  The `bug.pl` file shows the erroneous code, while `bugSolution.pl` provides the corrected version.  This example highlights the importance of careful array index handling in Perl.
